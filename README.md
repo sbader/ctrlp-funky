@@ -11,6 +11,7 @@ This supports following filetypes:
 * python
 * ruby
 * vim
+* php
 
 INSTALL
 ----------
